@@ -2,7 +2,9 @@
 
 从零认识表格识别比赛的基本功。读完能看懂一场多模态表格识别比赛的完整流程：文件从哪里来、题目怎么读、模型怎么用、答案怎么验证、提交怎么管理。
 
-本仓库讲原理和基本功，全部例子取自一场真实比赛（908 道题、PDF 与图片混合、阿里云千问系列模型）。动手和代码在实验仓库：[electronics-from-zero](https://github.com/Lillyli-netizen/electronics-from-zero)，示例章节见[原理图从零开始](https://github.com/Lillyli-netizen/electronics-from-zero/blob/main/03_%E8%AF%BB%E5%9B%BE%E5%92%8C%E6%8E%A5%E7%BA%BF/01_%E5%8E%9F%E7%90%86%E5%9B%BE%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B.md)。
+本仓库讲原理和基本功，全部例子取自一场真实比赛（908 道题、PDF 与图片混合、阿里云千问系列模型）。动手代码和历史证据见 [tianchi-table-pipeline](https://github.com/Lillyli-netizen/tianchi-table-pipeline)。历史成绩与调用统计需关联原始记录，评分、接口限制及模型许可按对应版本规则核对。
+
+具体实验与 Agent 分工见 [熟练选手的比赛流程](熟练选手的比赛流程.md)。
 
 ## 章节地图
 
